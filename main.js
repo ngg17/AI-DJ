@@ -1,7 +1,7 @@
 song = "";
 
 function preload() {
-    song = loadSound("Alan Walker - Faded.mp3");
+    song = loadSound("ZAYN & Sia - Dusk Till Dawn.mp3");
 }
 
 function setup() {
